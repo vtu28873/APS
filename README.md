@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu28873/APS/tree/main/0622-design-circular-queue/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28873/APS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28873/APS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu28873/APS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
