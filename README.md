@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vtu28873/APS/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/vtu28873/APS/tree/main/0179-largest-number/) | Medium |
 | [0344-reverse-string](https://github.com/vtu28873/APS/tree/main/0344-reverse-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28873/APS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu28873/APS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28873/APS/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28873/APS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
