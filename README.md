@@ -72,4 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/vtu28873/APS/tree/main/0179-largest-number/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/main/0199-binary-tree-right-side-view/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
