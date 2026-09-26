@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu28873/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu28873/APS/tree/main/0622-design-circular-queue/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28873/APS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu28873/APS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/vtu28873/APS/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28873/APS/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28873/APS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vtu28873/APS/tree/main/0075-sort-colors/) | Medium |
 | [0179-largest-number](https://github.com/vtu28873/APS/tree/main/0179-largest-number/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/vtu28873/APS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
