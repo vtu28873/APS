@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/vtu28873/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu28873/APS/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28873/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu28873/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28873/APS/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28873/APS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu28873/APS/tree/main/0283-move-zeroes/) | Easy |
 | [0496-next-greater-element-i](https://github.com/vtu28873/APS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu28873/APS/tree/main/0622-design-circular-queue/) | Medium |
+| [0739-daily-temperatures](https://github.com/vtu28873/APS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu28873/APS/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28873/APS/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28873/APS/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu28873/APS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu28873/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28873/APS/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 |  |
