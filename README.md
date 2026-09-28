@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28873/APS/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28873/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/vtu28873/APS/tree/main/0179-largest-number/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/vtu28873/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu28873/APS/tree/main/0283-move-zeroes/) | Easy |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/vtu28873/APS/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/vtu28873/APS/tree/master/1732-find-the-highest-altitude) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28873/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
