@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28873/APS/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/vtu28873/APS/tree/main/0179-largest-number/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu28873/APS/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/vtu28873/APS/tree/main/0344-reverse-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28873/APS/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Stack
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28873/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28873/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28873/APS/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28873/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28873/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28873/APS/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28873/APS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28873/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28873/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28873/APS/tree/main/0257-binary-tree-paths/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/vtu28873/APS/tree/main/0113-path-sum-ii/) | Medium |
+| [0257-binary-tree-paths](https://github.com/vtu28873/APS/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
